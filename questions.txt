@@ -1,0 +1,60 @@
+#1) Modda tarkibini o‘zgartirmasdan ajratish usuli qanday?
+a) Qaynatish
+*b) Filtrlash
+c) Yonish
+d) Elektroliz
+
+#2) Kimyoviy elementlar qanday tartibda joylashtirilgan?
+a) Alfavit tartibida
+b) Atom og‘irligiga ko‘ra
+*c) Atom raqamiga ko‘ra
+d) Erituvchanligiga ko‘ra
+
+#3) Suvning kimyoviy formulasi qanday?
+a) HO2
+*b) H2O
+c) H3O
+d) OH
+
+#4) Eritmalar qanday turga bo‘linadi?
+a) Qattiq va suyuq
+b) Asosiy va kislotali
+*c) Qattiq, suyuq va gazsimon
+d) Konsentratsiyali va konsentratsiyalanmagan
+
+#5) Asoslar pH qiymati nechadan katta bo‘ladi?
+a) 0
+b) 5
+*c) 7
+d) 14
+
+#6) Gazlar bosimi nimalarga bog‘liq?
+a) Faqat hajm
+b) Faqat harorat
+*c) Hajm, harorat va zarracha soni
+d) Faqat massa
+
+#7) Oltin kimyoviy belgilanishi?
+a) Ag
+b) Fe
+*c) Au
+d) Al
+
+#8) Qanday reaksiya ekzotermik hisoblanadi?
+a) Qaynatish
+*b) Yonish
+c) Bug‘lanish
+d) Qayta kristallanish
+
+#9) Metallarga misol bo‘la oladigan element:
+a) Heliy
+*b) Temir
+c) Xlor
+d) Neon
+
+#10) Organik birikmalar tarkibida asosan qaysi elementlar bo‘ladi?
+*a) C, H, O
+b) Fe, Cu, Zn
+c) N, P, S
+d) Na, Cl, K
+
